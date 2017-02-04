@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="phones">
+        <item>三星</item>
+        <item>苹果</item>
+        <item>华为</item>
+    </string-array>
+
+</resources>
